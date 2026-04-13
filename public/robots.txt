@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aifc.solispartners.kz/sitemap.xml
