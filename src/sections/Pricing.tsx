@@ -89,8 +89,8 @@ export function Pricing() {
             </button>
             <p className="text-center text-xs text-muted sm:text-left">
               {isRu
-                ? "Оставьте заявку — направим ориентир по бюджету и срокам в течение 2 рабочих часов."
-                : "Submit a request and receive a budget and timeline estimate within 2 business hours."}
+                ? "Оставьте заявку — направим ориентир по бюджету и срокам в течение одного рабочего дня."
+                : "Submit a request and receive a budget and timeline estimate within one business day."}
             </p>
           </div>
         </Reveal>

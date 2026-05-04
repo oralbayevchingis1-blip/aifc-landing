@@ -7,8 +7,8 @@ const cards = [
     icon: Scale,
     titleRu: "Практика МФЦА с 2019 года",
     titleEn: "AIFC practice since 2019",
-    bodyRu: "Допущены к практике в AIFC Court. Работаем в юрисдикции с момента её формирования.",
-    bodyEn: "Admitted to practice before AIFC Court. Active in the jurisdiction since its early development stage.",
+    bodyRu: "Допущены к практике в AIFC Court. Сопровождаем проекты в МФЦА с 2019 года.",
+    bodyEn: "Admitted to practice before AIFC Court. Advising on AIFC matters since 2019.",
   },
   {
     icon: Languages,

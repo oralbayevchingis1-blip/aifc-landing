@@ -106,6 +106,9 @@ export function Footer() {
                 {isRu ? "Условия" : "Terms"}
               </a>
             </p>
+            <p className="text-xs text-muted/70">
+              {isRu ? "Контент обновлён: май 2026" : "Content updated: May 2026"}
+            </p>
           </div>
         </div>
       </div>

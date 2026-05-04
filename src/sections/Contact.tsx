@@ -186,7 +186,7 @@ export function Contact() {
           )}
 
           <div className="mt-10 border-t border-border/40 pt-8 text-center text-sm text-muted">
-            <p>{isRu ? "Отвечаем в течение 2 рабочих часов. Или напишите напрямую:" : "We reply within 2 business hours. Or contact us directly:"}</p>
+            <p>{isRu ? "Отвечаем в течение одного рабочего дня. Или напишите напрямую:" : "We reply within one business day. Or contact us directly:"}</p>
             <div className="mt-4 flex flex-wrap items-center justify-center gap-x-6 gap-y-2">
               <a
                 href={WHATSAPP_URL}
