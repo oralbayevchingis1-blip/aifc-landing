@@ -74,8 +74,8 @@ export default function App() {
           title={isRu ? "Нужен расчёт под вашу структуру?" : "Need a budget estimate for your structure?"}
           subtitle={
             isRu
-              ? "Опишите проект — пришлём фиксированную смету в течение 2 рабочих часов. Без почасовых сюрпризов."
-              : "Describe your project and get a fixed estimate within 2 business hours. No hourly surprises."
+              ? "Опишите проект — пришлём фиксированную смету в течение одного рабочего дня. Без почасовых сюрпризов."
+              : "Describe your project and get a fixed estimate within one business day. No hourly surprises."
           }
           buttonLabel={isRu ? "Получить расчёт" : "Get estimate"}
         />
